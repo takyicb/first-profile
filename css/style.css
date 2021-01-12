@@ -7,6 +7,10 @@ body{
 
 }
 
+a{
+   color: #66BFBF;
+}
+
 h1{
   font-family: 'Sacramento', cursive;
   font-size: 5.625em;
